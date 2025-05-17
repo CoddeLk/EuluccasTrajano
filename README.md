@@ -1,23 +1,34 @@
-<div align="center">
-  <h1>👋 Hello! I'm Lucas Gabriel!</h1>
-  <p>Technology enthusiast always seeking new challenges!</p>
-</div>
+# 👨🏾‍💻 Lucas Gabriel
 
-### 💼  Work
-Currently immersed in the world of logistics, optimizing processes and implementing innovative solutions. 🚀✨
+**`Desenvolvedor Junior`**
 
-### 👨‍🎓 Continuous Learning
-Studying Systems Analysis and Development, with a focus on Full-Stack 💻 and Cyber Security 🛡️. I love exploring the universe of technology and unraveling its mysteries! 💡
+Me chamo Lucas Gabriel Trajano , tenho 19 anos e sou natural de Pernambuco . Concluí o ensino médio no CODAI-UFRPE, com o curso técnico em agropecuária. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT. Sou apaixonado por tecnologia e compartilho meu conhecimento através do do Instagram, com o perfil chamado "[CodLuccas](https://www.instagram.com/codlucca)".
+</a>
+   
 
-### 📧 Let's Connect!
-For professional contact, my email is: <a href="mailto:lgttrajano@gmail.com">lgttrajano@gmail.com</a>. I'd be happy to exchange ideas! 😊
+<p>
+    <a href="https://www.instagram.com/codlucca">
+        <img
+            alt="Instagram"
+            title="Instagram"
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="mailto:Lgttrajano@gmail.com">
+        <img
+            alt="Gmail"
+            title="Gmail"
+            src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
+
 
 
 ---
-![EuLuccasSoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoddeLk&theme=dracula&show_icons=true)
-![EuLuccasSoft's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoddeLk&layout=compact&theme=dracula&langs_count=8&show_icons=true)
-##
-### 
+
+### 🤖 Linguagens e Tecnologias
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -30,21 +41,11 @@ For professional contact, my email is: <a href="mailto:lgttrajano@gmail.com">lgt
   
 </p>
 
+### 📊 Estatísticas
 
-
-##
-
-<p align="left">
-  <a href="https://www.instagram.com/codlucca?igsh=MTNuanowemJ6dzlyZQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-trajano-3a589830b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-left: 10px;"/>
-  </a>
-  <a href="mailto:lgttrajano@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-left: 10px;"/>
-  </a>
+<p>
+  <img alt="GitHub Stats" height="200" style="padding-right: 10px; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=CoddeLk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img alt="Tecnologias" height="200" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoddeLk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
-
 
 
